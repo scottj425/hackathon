@@ -1,0 +1,6 @@
+local_resinos:
+  app-name: att-node
+  build-triggers:
+    - Dockerfile: 36327adf09b6639b14ac1c66f86418058959744f4771cb3707b249ecf6065759
+    - package.json: 786ddab2f41705e2c8dce37bb8e6102c72cd5146866282fad79957bfd75446de
+  environment: []
